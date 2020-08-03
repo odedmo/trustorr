@@ -1,0 +1,9 @@
+.search-wrapper {
+  text-align: center;
+}
+
+.search-wrapper > div {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+}

@@ -5,10 +5,6 @@ const ShowSchema = new mongoose.Schema({
     type: String,
     unique: true,
     required: true
-  },
-  liked: {
-    type: Boolean,
-    default: false
   }
 });
 
